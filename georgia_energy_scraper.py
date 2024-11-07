@@ -1,7 +1,7 @@
 from kubra_scraper import KubraScraper
 
 
-class AustinEnergyScraper(KubraScraper):
+class GeorgiaEnergyScraper(KubraScraper):
     owner = "Myrrolinz"
     repo = "georgia-energy-outage"
     filepath = "outages.json"
