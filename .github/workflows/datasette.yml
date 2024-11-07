@@ -1,6 +1,6 @@
 name: Deploy Datasette
 
-#on:
+# on:
 #  schedule:
 #    # * is a special character in YAML so you have to quote this string
 #    - cron:  '10 */6 * * *'
@@ -31,6 +31,6 @@ jobs:
         HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
       # Add command for each DB to publish
       run: |
-        python build_database.py lgeku/outages.db
+        python build_database.py georgia/outages.db
         heroku plugins:install heroku-builds
-        datasette publish heroku --name=lgeku-outages --install=datasette-cluster-map --install=datasette-vega lgeku/outages.db
+        datasette publish heroku --name=georgia-outages --install=datasette-cluster-map --install=datasette-vega georgia/outages.db
