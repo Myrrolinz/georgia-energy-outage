@@ -1,0 +1,47 @@
+[
+  {
+    "id": "oxmmEdzwaO-None",
+    "etr": "2025-01-14T10:45:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 94,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.8268,
+    "longitude": -84.34099,
+    "source": "https://kubra.io/cluster-data/023/f738adb9-3478-457e-9af5-fc3b91ec6aec/44de0d3a-6e03-4c0b-8223-79ddcc8234a1/public/cluster-2/03200320.json"
+  },
+  {
+    "id": "ae_nEr}`cO-None",
+    "etr": "2025-01-14T10:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 21,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.91585,
+    "longitude": -84.55146,
+    "source": "https://kubra.io/cluster-data/132/f738adb9-3478-457e-9af5-fc3b91ec6aec/44de0d3a-6e03-4c0b-8223-79ddcc8234a1/public/cluster-2/03200231.json"
+  },
+  {
+    "id": "_ic~D|ryaO-None",
+    "etr": "2025-01-14T10:45:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 31.31552,
+    "longitude": -84.35007,
+    "source": "https://kubra.io/cluster-data/012/f738adb9-3478-457e-9af5-fc3b91ec6aec/44de0d3a-6e03-4c0b-8223-79ddcc8234a1/public/cluster-2/0320210.json"
+  }
+]
