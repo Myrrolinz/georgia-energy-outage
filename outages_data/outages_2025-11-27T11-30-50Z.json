@@ -1,0 +1,62 @@
+[
+  {
+    "id": "iqbmEbcfaO-None",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": true,
+    "comments": null,
+    "cause": null,
+    "numberOut": 2,
+    "custAffected": 60,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.76933,
+    "longitude": -84.25026,
+    "source": "https://kubra.io/cluster-data/303/f738adb9-3478-457e-9af5-fc3b91ec6aec/388c9cc0-f142-49f7-8718-d1ce80db5f47/public/cluster-2/03200320022303.json"
+  },
+  {
+    "id": "ekplEvtfbO-None",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.67619,
+    "longitude": -84.41692,
+    "source": "https://kubra.io/cluster-data/313/f738adb9-3478-457e-9af5-fc3b91ec6aec/388c9cc0-f142-49f7-8718-d1ce80db5f47/public/cluster-2/032002313.json"
+  },
+  {
+    "id": "cslmEdr|aO-None",
+    "etr": "2025-11-27T14:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "A vehicle accident has caused an outage in your area. Most customers will be restored by the ERT shown.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 113,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.82082,
+    "longitude": -84.36531,
+    "source": "https://kubra.io/cluster-data/002/f738adb9-3478-457e-9af5-fc3b91ec6aec/388c9cc0-f142-49f7-8718-d1ce80db5f47/public/cluster-2/032003200.json"
+  },
+  {
+    "id": "yeybErgcnN-None",
+    "etr": "2025-11-27T14:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 32.08301,
+    "longitude": -81.12266,
+    "source": "https://kubra.io/cluster-data/330/f738adb9-3478-457e-9af5-fc3b91ec6aec/388c9cc0-f142-49f7-8718-d1ce80db5f47/public/cluster-2/0320033.json"
+  }
+]
