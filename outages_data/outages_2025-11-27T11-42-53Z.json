@@ -1,0 +1,32 @@
+[
+  {
+    "id": "iqbmEbcfaO-None",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": true,
+    "comments": null,
+    "cause": null,
+    "numberOut": 2,
+    "custAffected": 60,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.76933,
+    "longitude": -84.25026,
+    "source": "https://kubra.io/cluster-data/303/f738adb9-3478-457e-9af5-fc3b91ec6aec/0a941766-9265-43bb-ba9a-c5a816417f0e/public/cluster-2/03200320022303.json"
+  },
+  {
+    "id": "yeybErgcnN-None",
+    "etr": "2025-11-27T14:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 32.08301,
+    "longitude": -81.12266,
+    "source": "https://kubra.io/cluster-data/330/f738adb9-3478-457e-9af5-fc3b91ec6aec/0a941766-9265-43bb-ba9a-c5a816417f0e/public/cluster-2/0320033.json"
+  }
+]
