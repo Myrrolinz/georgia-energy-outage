@@ -1,0 +1,47 @@
+[
+  {
+    "id": "yre{Df{h{N-None",
+    "etr": "2025-12-27T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "A vehicle accident has caused an outage in your area. Most customers will be restored by the ERT shown.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 35,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 30.83581,
+    "longitude": -83.28132,
+    "source": "https://kubra.io/cluster-data/012/f738adb9-3478-457e-9af5-fc3b91ec6aec/66b3d56f-2e0e-4444-8c12-d3030193cfdf/public/cluster-2/0320210.json"
+  },
+  {
+    "id": "_hcoEvdh~N-None",
+    "etr": "2025-12-27T15:15:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 34.10064,
+    "longitude": -83.76924,
+    "source": "https://kubra.io/cluster-data/230/f738adb9-3478-457e-9af5-fc3b91ec6aec/66b3d56f-2e0e-4444-8c12-d3030193cfdf/public/cluster-2/0320032.json"
+  },
+  {
+    "id": "eainE~nw`O-None",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An incident caused an outage in your area. We are working to restore power as quickly as possible.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.96643,
+    "longitude": -84.17536,
+    "source": "https://kubra.io/cluster-data/230/f738adb9-3478-457e-9af5-fc3b91ec6aec/66b3d56f-2e0e-4444-8c12-d3030193cfdf/public/cluster-2/0320032.json"
+  }
+]
