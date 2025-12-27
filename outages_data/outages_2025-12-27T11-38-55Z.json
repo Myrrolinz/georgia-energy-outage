@@ -1,0 +1,62 @@
+[
+  {
+    "id": "yre{Df{h{N-None",
+    "etr": "2025-12-27T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "A vehicle accident has caused an outage in your area. Most customers will be restored by the ERT shown.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 35,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 30.83581,
+    "longitude": -83.28132,
+    "source": "https://kubra.io/cluster-data/012/f738adb9-3478-457e-9af5-fc3b91ec6aec/c3268c1b-a3c6-4136-b00b-459ad860f6a5/public/cluster-2/0320210.json"
+  },
+  {
+    "id": "msqbElfmnN-None",
+    "etr": "2025-12-27T14:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 32.04423,
+    "longitude": -81.17367,
+    "source": "https://kubra.io/cluster-data/330/f738adb9-3478-457e-9af5-fc3b91ec6aec/c3268c1b-a3c6-4136-b00b-459ad860f6a5/public/cluster-2/0320033.json"
+  },
+  {
+    "id": "eainE~nw`O-None",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An incident caused an outage in your area. We are working to restore power as quickly as possible.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.96643,
+    "longitude": -84.17536,
+    "source": "https://kubra.io/cluster-data/230/f738adb9-3478-457e-9af5-fc3b91ec6aec/c3268c1b-a3c6-4136-b00b-459ad860f6a5/public/cluster-2/0320032.json"
+  },
+  {
+    "id": "edtlE|niaO-None",
+    "etr": "2025-12-27T16:15:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.69555,
+    "longitude": -84.26751,
+    "source": "https://kubra.io/cluster-data/230/f738adb9-3478-457e-9af5-fc3b91ec6aec/c3268c1b-a3c6-4136-b00b-459ad860f6a5/public/cluster-2/0320032.json"
+  }
+]
