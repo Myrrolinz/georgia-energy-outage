@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ax|kErdibO-None",
+    "etr": "2025-12-28T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 33.57585,
+    "longitude": -84.4297,
+    "source": "https://kubra.io/cluster-data/320/f738adb9-3478-457e-9af5-fc3b91ec6aec/a45fd2e5-20a0-469a-8d97-ebc4c9a7fa9b/public/cluster-2/0320023.json"
+  },
+  {
+    "id": "_jgcEbclnN-None",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "An outage has been reported in your area. We are working to determine a restoration time.",
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": null,
+    "latitude": 32.15536,
+    "longitude": -81.16802,
+    "source": "https://kubra.io/cluster-data/330/f738adb9-3478-457e-9af5-fc3b91ec6aec/a45fd2e5-20a0-469a-8d97-ebc4c9a7fa9b/public/cluster-2/0320033.json"
+  }
+]
